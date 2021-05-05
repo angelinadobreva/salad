@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    font-size: 30px;
+}
+
+p {
+    background-color: peachpuff;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+    border: 2px solid pink;
+    background-color: peachpuff;
+}
+
+img {
+    border: 2px solid red;
+}
+
+table {
+    font-size: 20px;
+    text-align:left;
+    border-collapse: collapse;
+    background-color: peachpuff;
+}
+td {
+    border: 1px solid red;
+}
